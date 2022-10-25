@@ -71,7 +71,7 @@ This assignment was very new to me and pretty difficult when I started. I was ex
 ## Multi-Part Design Pratice 
 
 ### Description
-This was the second assignment we had to prepare us for our CAD certification test. Again using blue-prints they gave us we 
+This was the second assignment we had to prepare us for our CAD certification test. We were given 10 pages of blue-prints and we had to answer 4 different questions to get the correct masses. We had to make different parts to make the plunger come together all in the same part-studio. For each questions we adjusted a couple dimesions and sometimes edited the naterial. 
 
 ### Evidence
 [Multi-Part Design Pratice in Onshape](https://cvilleschools.onshape.com/documents/b326f78eaf0c0243bc704a90/w/72e410b741d12414986de210/e/723e16faf5fd87f73f138a3b)
@@ -84,7 +84,7 @@ This was the second assignment we had to prepare us for our CAD certification te
 
 
 ### Reflection
-
+This assignment went a lot better than the first one because I was able to use what I learned and apply it here. We were given a cylinder part to start with and then we had to create the other parts off of that. I started with creating the bottom part which went pretty easy. Using the use tool and then making the sketch I was easily able to extrude the bottom part. I then was able to mirror it to create top and I added in a couple other things that were required for the top part. After the top and bottom was finished I created the plunger part which was very simpl
 ---
 
 
