@@ -76,10 +76,57 @@ This was the second assignment we had to prepare us for our CAD certification te
 [Multi-Part Design Pratice in Onshape](https://cvilleschools.onshape.com/documents/b326f78eaf0c0243bc704a90/w/72e410b741d12414986de210/e/723e16faf5fd87f73f138a3b)
 
 ### Image
-![Screenshot (12)](https://user-images.githubusercontent.com/71406905/197858783-006c3f4f-55ea-4a85-b9ff-f927de79a5c8.png)
-![Screenshot (13)](https://user-images.githubusercontent.com/71406905/197858806-5b6e7092-6dbb-4862-b9ab-73e31c5793ab.png)
-![Screenshot (14)](https://user-images.githubusercontent.com/71406905/197858821-75be309c-35ce-489c-9356-8f17c5a891bf.png)
-![Screenshot (15)](https://user-images.githubusercontent.com/71406905/197858838-7d306ec4-5ca7-40cb-b581-a1156f45994f.png)
+ <div class="row">
+<!DOCTYPE png>
+<png>
+<body>
+
+<figure>
+  <img src="https://user-images.githubusercontent.com/71406905/197865889-294bfe62-85fd-41ee-9690-de123b8f3814.png" alt="Answer 1" style ="width:12%">
+  <figcaption>Fig.1 - Answer 1.</figcaption>
+</figure>
+
+</body>
+</png>
+
+<!DOCTYPE png>
+<png>
+<body>
+
+<figure>
+  <img src="https://user-images.githubusercontent.com/71406905/197866304-5522e429-cf15-454f-975b-37f4f4569b96.png" alt="Answer 2" style ="width:12%">
+  <figcaption>Fig.2 - Answer 2.</figcaption>
+</figure>
+
+</body>
+</png>
+
+<!DOCTYPE png>
+<png>
+<body>
+ 
+<figure>
+  <img src="https://user-images.githubusercontent.com/71406905/197862975-c520f0f1-ad30-4f6c-992f-eb6da0614a18.png" alt="Answer 3" style ="width:12%">
+  <figcaption>Fig.3 - Answer 3.</figcaption>
+</figure>
+
+</body>
+</png>
+
+<!DOCTYPE png>
+<png>
+<body>
+
+<figure>
+  <img src="https://user-images.githubusercontent.com/71406905/197863714-8fd10fe3-a9af-412f-9551-f83c525f7130.png" alt="Answer 4" style ="width:12%">
+  <figcaption>Fig.4 - Answer 4.</figcaption>
+</figure>
+
+</body>
+</png>
+ </div>
+ 
+ Image Credit does to [Kathryn L](https://github.com/klenert17/Intermediate-CAD)
 
 
 ### Reflection
