@@ -63,6 +63,7 @@ This was the first assignment to prepare us for the CAD certification test that 
 
 ### Reflection
 This assignment was very new to me and pretty difficult when I started. I was exactly sure where or how to start. I knew I needed to add in variables so I added those in first and then I just went with a section of it and started to sketch what I saw using some of the dimesions given. I did need some help from friends around me and my teacher because I tried to add in some dimesions in the beginning but realized that I shouldn't have done that until later. After trying a lot of different things I was eventually able to extrude the sketch I had drawn. I used the second-end position for my extrusions which was something I have never used before. But after a lot of trial and error I was able to make the part come together and get the correct mass for step 1. For step two all I had to do was change some of the variables I already set and hope that nothing would break. I correctly made the part so when I changed the variables it change to the correct dimesions. Overall this assignment was difficult for me and I did need some help from the people around, but it was also the first time I have done this so it was intresting. Even though it was very difficult I was able to get it done and understand more efficient ways of making it. 
+
 ---
 
 
