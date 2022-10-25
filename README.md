@@ -50,7 +50,7 @@ For this part my parnter and I worked together to branch and merge our document.
 ## Swing Arm 
 
 ### Description
-This was the first assignment to prepare us for the CAD certification test that we will be taking later in the year. We were given a couple pages of blueprints, which we then had to build. We were trying to get the correct mass of the part using the images they had given us. 
+This was the first assignment to prepare us for the CAD certification test that we will be taking later in the year. We were given four pages of blueprints, which we then used to build the swing arm. There were two steps and for each step we had to get the correct mass.  
 
 ### Evidence
 [Swing Arm in Onshape](https://cvilleschools.onshape.com/documents/ae48f159647d9b2dc704fb67/w/a2acc3fcba46db584da1e18a/e/28d9495574dbff199399f88b)
