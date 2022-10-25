@@ -29,13 +29,20 @@ For this assignment we were given a random partner and together we had to make a
 ### 4.4/4.5
 ![Screenshot (13)](https://user-images.githubusercontent.com/71406903/197612326-3719254b-d250-4acf-8c3f-247b833bdc46.png)
 ![Screenshot (14)](https://user-images.githubusercontent.com/71406903/197612379-07bc1258-eaf4-4c18-9063-99d60a8dd6d2.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/71406903/197858186-76833c4b-35c3-4e3e-b04f-f4f4cfe30e95.png)
 
 
 ### Reflection 4.1 
-In 4.1 I was assigned student A, for this part I had to make the ring. This assignment was pretty easy for me, I just followed the instructins given to me. I was able to use the part given to get the lines that I would need for the ring. I then did a sketch of the ring size and extruded in between the two circles I drew. I added some fillets and the ring was done. 
+In 4.1 I was assigned student A, for this part I had to make the ring. This assignment was pretty easy for me, I just followed the instructions given to me. I was able to use the part given and use the use tool to get the lines that I needed to extrude. Then on the extruded part I sketched two circles to create a ring shpae when I extruded them. I added some fillets to make it cleaned up and I was finished. Overall this part wasn't bad and I enjoyed getting back into Onshape. 
 
 ### Reflection 4.2 
+In 4.2 I had to make the key, again I followed the instructions given to make it. I uses the use tool to get the shapes I needed to make the sketch, and then I extruded the key. I added in the teeth and used a linear pattern to make them equally spaced out, and then I was done. Again this assignment was pretty easy, I enjoyed working on it and I liked using some different tools on Onshape. 
 
+### Reflection 4.3 
+In 4.3 my partner and I started to actually work together to assembled the pull copter. We each went in to use the fasten mates to connect our parts that we made in the ealier parts. The whole pull-copter started to come together. It was pretty simple and because we wroked together we were able to do it efficiently and get it done quickly. 
+
+### Reflection 4.4/4.5 
+For this part my parnter and I worked together to branch and merge our document. We branched it so when we made our changes to the prop we could have our own. This part was pretty simple, we just followed the intructions to branch and  merge it and we were then done working together. The final step was just to modify and make our own prop which I just change the size of and added some fillets to give it a cool shape. Overall I liked this project and it was nice to work with a partner, we were able to get things done very efficiently.
 
 ---
 
@@ -43,7 +50,7 @@ In 4.1 I was assigned student A, for this part I had to make the ring. This assi
 ## Swing Arm 
 
 ### Description
-For this assignment we 
+This was the first assignment to prepare us for the CAD certification test that we will be taking later in the year. We were given a couple pages of blueprints, which we then had to build. We were trying to get the correct mass of the part using the images they had given us. 
 
 ### Evidence
 [Swing Arm in Onshape](https://cvilleschools.onshape.com/documents/ae48f159647d9b2dc704fb67/w/a2acc3fcba46db584da1e18a/e/28d9495574dbff199399f88b)
@@ -55,15 +62,16 @@ For this assignment we
 ![Screenshot (17)](https://user-images.githubusercontent.com/71406903/197613658-7f9518c1-069a-4cc9-a603-5a233e31a562.png)
 
 ### Reflection
-
+This assignment was very new to me and pretty difficult when I started. I was exactly sure where or how to start. I knew I needed to add in variables so I added those in first and then I just went with a section of it and started to sketch what I saw using some of the dimesions given. I did need some help from friends around me and my teacher because I tried to add in some dimesions in the beginning but realized that I shouldn't have done that until later. After trying a lot of different things I was eventually able to extrude the sketch I had drawn. I used the second-end position for my extrusions which was something I have never used before. But after a lot of trial and error I was able to make the part come together and get the correct mass for step 1. For step two all I had to do was change some of the variables I already set and hope that nothing would break. I correctly made the part so when I changed the variables it change to the correct dimesions. Overall this assignment was difficult for me and I did need some help from the people around, but it was also the first time I have done this so it was intresting. Even though it was very difficult I was able to get it done and understand more efficient ways of making it. 
 ---
 
 
-## Fork
+## Multi-Part Design Pratice 
 
 ### Description
 
 ### Evidence
+[Multi-Part Design Pratice in Onshape](https://cvilleschools.onshape.com/documents/b326f78eaf0c0243bc704a90/w/72e410b741d12414986de210/e/723e16faf5fd87f73f138a3b)
 
 ### Image
 
@@ -72,40 +80,3 @@ For this assignment we
 ---
 
 
-## Tire
-
-### Description
-
-### Evidence
-
-### Image
-
-### Reflection
-
----
-
-
-## Wheel
-
-### Description
-
-### Evidence
-
-### Image
-
-### Reflection
-
----
-
-
-## AxleCollarBearings
-
-### Description
-
-### Evidence
-
-### Image
-
-### Reflection
-
----
