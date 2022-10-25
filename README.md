@@ -12,7 +12,7 @@
 
 ### Description
 
-For this assignment we were given a random partner and together we had to make a pull copter. Each partner had their own parts to make and it was split into 5 different parts. In 4.1 one person made the ring and the other made the spinner. Then in 4.2 one made the key and the other made the prop. In 4.3 we worked together to assemble the launcher, and in 4.4-4.5 we branched and merged the Onshape document to make our own prop. 
+For this assignment we were given a random partner and together we had to make a pull copter. Each partner had their own parts to make and it was split into 5 different sections. In 4.1 one person made the ring and the other made the spinner. Then in 4.2 one made the key and the other made the prop. In 4.3 we worked together to assemble the launcher, and in 4.4-4.5 we branched and merged the Onshape document to make our own prop. 
 
 ### Evidence
 [Pull Copter in Onshape](https://cvilleschools.onshape.com/documents/d1a942bcbbf5f8da3ded95e0/w/d2d6b0869b88227632bb2ec1/e/4dd566cff69015370292574b?renderMode=0&uiState=6356e68d6623e845d4ee9d68)
