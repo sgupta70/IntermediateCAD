@@ -126,7 +126,8 @@ This was the second assignment we had to prepare us for our CAD certification te
 </png>
  </div>
  
- Image Credit does to [Kathryn L](https://github.com/klenert17/Intermediate-CAD)
+ 
+ Image Credit goes to [Kathryn L](https://github.com/klenert17/Intermediate-CAD)
 
 
 ### Reflection
