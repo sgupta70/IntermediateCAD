@@ -3,9 +3,10 @@
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
-* [Pull Copter](#Pull Copter)
-* [Swing Arm](#Swing Arm)
-* [Multi-Part Design Pratice](#Multi-Part Design Pratice)
+* [Pull Copter](#Pull-Copter)
+* [Swing Arm](#Swing-Arm)
+* [Multipart Design Practice](#Multi-part-Design-Practice)
+
 
 ## Pull Copter 
 
@@ -70,11 +71,17 @@ This assignment was very new to me and pretty difficult when I started. I was ex
 ## Multi-Part Design Pratice 
 
 ### Description
+This was the second assignment we had to prepare us for our CAD certification test. Again using blue-prints they gave us we 
 
 ### Evidence
 [Multi-Part Design Pratice in Onshape](https://cvilleschools.onshape.com/documents/b326f78eaf0c0243bc704a90/w/72e410b741d12414986de210/e/723e16faf5fd87f73f138a3b)
 
 ### Image
+![Screenshot (12)](https://user-images.githubusercontent.com/71406905/197858783-006c3f4f-55ea-4a85-b9ff-f927de79a5c8.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/71406905/197858806-5b6e7092-6dbb-4862-b9ab-73e31c5793ab.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/71406905/197858821-75be309c-35ce-489c-9356-8f17c5a891bf.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/71406905/197858838-7d306ec4-5ca7-40cb-b581-a1156f45994f.png)
+
 
 ### Reflection
 
