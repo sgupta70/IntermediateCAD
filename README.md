@@ -27,10 +27,9 @@ For this assignment we were given a random partner and together we had to make a
 ![Screenshot (10)](https://user-images.githubusercontent.com/71406903/197611520-5aa59e18-4719-446b-99a5-6a5f0198f68a.png)
 
 ### 4.4/4.5
+![Screenshot (19)](https://user-images.githubusercontent.com/71406903/197858186-76833c4b-35c3-4e3e-b04f-f4f4cfe30e95.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/71406903/197612326-3719254b-d250-4acf-8c3f-247b833bdc46.png)
 ![Screenshot (14)](https://user-images.githubusercontent.com/71406903/197612379-07bc1258-eaf4-4c18-9063-99d60a8dd6d2.png)
-![Screenshot (19)](https://user-images.githubusercontent.com/71406903/197858186-76833c4b-35c3-4e3e-b04f-f4f4cfe30e95.png)
-
 
 ### Reflection 4.1 
 In 4.1 I was assigned student A, for this part I had to make the ring. This assignment was pretty easy for me, I just followed the instructions given to me. I was able to use the part given and use the use tool to get the lines that I needed to extrude. Then on the extruded part I sketched two circles to create a ring shpae when I extruded them. I added some fillets to make it cleaned up and I was finished. Overall this part wasn't bad and I enjoyed getting back into Onshape. 
@@ -131,7 +130,7 @@ This was the second assignment we had to prepare us for our CAD certification te
 
 
 ### Reflection
-This assignment went a lot better than the first one because I was able to use what I learned and apply it here. We were given a cylinder part to start with and then we had to create the other parts off of that. I started with creating the bottom part which went pretty easy. Using the use tool and then making the sketch I was easily able to extrude the bottom part. I then was able to mirror it to create top and I added in a couple other things that were required for the top part. After the top and bottom was finished I created the plunger part which was very simple, all I had to do was use the use tool and extrude what I needed. Along with that I had to create the plunger top. I sketched what I wanted and used the revolve tool and then removed the parts I didn't want. Finally I created the bolts which I just extruded. I went into the assembly and was able to fasten all the parts together. I then had to answer each question, and for each I had to plug in different dimesions or a different material to find the new mass. Overall this assignment was much easier than the first, and I was able to take away mnay things that will make the final test much easier.
+This assignment went a lot better than the first one because I was able to use what I learned and apply it here. We were given a cylinder part to start with and then we had to create the other parts off of that. I started with creating the bottom part which went pretty easy. Using the use tool and then making the sketch I was easily able to extrude the bottom part. I then was able to mirror it to create top and I added in a couple other things that were required for the top part. After the top and bottom was finished I created the plunger part which was very simple, all I had to do was use the use tool and extrude what I needed. Along with that I had to create the plunger top. I sketched what I wanted and used the revolve tool and then removed the parts I didn't want. Finally I created the bolts which I just extruded. I went into the assembly and was able to fasten all the parts together. I then had to answer each question, and for each I had to plug in different dimesions or a different material to find the new mass. Overall this assignment was much easier than the first, and I was able to take away many helpful points that will make the final test much easier.
 
 ---
 
