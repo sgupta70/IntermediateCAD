@@ -26,7 +26,7 @@ For this assignment we were given a random partner and together we had to make a
 ![launcher](https://user-images.githubusercontent.com/71406903/197610699-19825612-bf0a-4bf6-bfc3-c86da57c0aec.png)
 ![Screenshot (10)](https://user-images.githubusercontent.com/71406903/197611520-5aa59e18-4719-446b-99a5-6a5f0198f68a.png)
 
-### 4.4/4.5
+### Image 4.4/4.5
 ![Screenshot (19)](https://user-images.githubusercontent.com/71406903/197858186-76833c4b-35c3-4e3e-b04f-f4f4cfe30e95.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/71406903/197612326-3719254b-d250-4acf-8c3f-247b833bdc46.png)
 ![Screenshot (14)](https://user-images.githubusercontent.com/71406903/197612379-07bc1258-eaf4-4c18-9063-99d60a8dd6d2.png)
