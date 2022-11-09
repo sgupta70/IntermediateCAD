@@ -136,7 +136,7 @@ This assignment went a lot better than the first one because I was able to use w
 ## OnShape Assemblies
 
 ### Description
-For this assignment we followed an OnShape course to better understand assemblies. There were many videos and helpful hints and notes to help us complete three different assemblies. Each assembly helped us with a different component: creating an assembly, mating assembly components, and working with an assembly. 
+For this assignment we followed an OnShape course to better understand assemblies. There were many videos and helpful hints/notes to help us complete three different assemblies. Each assembly helped us with a different component: creating an assembly, mating assembly components, and working with an assembly. 
 
 ### Evidence
 [Creating an Assembly in Onshape](https://cvilleschools.onshape.com/documents/ce907e74325a03ff77a6a14b/w/f1f4e6ee4b548a4ca28f913c/e/c24687bfcd26b686718959cb?renderMode=0&uiState=636c0d85337bbf6ce44e0d8d)
@@ -153,7 +153,7 @@ For this assignment we followed an OnShape course to better understand assemblie
 ![Screenshot (21)](https://user-images.githubusercontent.com/71406903/200936413-7cb8b4bb-25ed-4d61-8474-1410c469fe02.png)
 
 ### Reflection
-
+This assignment was pretty easy for me because I did one very similar to this last year. I worked through each course to complete the assembled part. For the first assignment I just had to mate all the parts together, which is something I've done multiple times so it wasn't difficult for me. In the second assignment I had to make an explicit mate which was something new to me but I was able to understand it quickly. An explicit mate is a mate which is inbetween two parts, so following the directions I was able to make that mate and easily fasten it to the other part it needed to be fastened to. For the final assembly we used subassemblies where a couple of parts could be connected together and then in a final; assembly all those fastened parts would easily connect together. Overall this assignment went by pretty quickly for me and I was able to learn more about explicit mates which will be helpful in the future. 
 
 ---
 
