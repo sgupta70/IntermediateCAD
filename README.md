@@ -5,7 +5,7 @@
 * [Pull Copter](#Pull-Copter)
 * [Swing Arm](#Swing-Arm)
 * [Multipart Design Practice](#Multi-part-Design-Practice)
-* [OnShape Assemblies](#OnShape Assemblies)
+* [OnShape Assemblies](#OnShape-Assemblies)
 
 ## Pull Copter 
 
