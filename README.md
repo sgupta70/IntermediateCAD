@@ -5,7 +5,7 @@
 * [Pull Copter](#Pull-Copter)
 * [Swing Arm](#Swing-Arm)
 * [Multipart Design Practice](#Multi-part-Design-Practice)
-
+* [OnShape Assemblies](#OnShape Assemblies)
 
 ## Pull Copter 
 
@@ -133,5 +133,27 @@ This was the second assignment we had to prepare us for our CAD certification te
 This assignment went a lot better than the first one because I was able to use what I learned and apply it here. We were given a cylinder part to start with and then we had to create the other parts off of that. I started with creating the bottom part which went pretty easy. Using the use tool and then making the sketch I was easily able to extrude the bottom part. I then was able to mirror it to create top and I added in a couple other things that were required for the top part. After the top and bottom was finished I created the plunger part which was very simple, all I had to do was use the use tool and extrude what I needed. Along with that I had to create the plunger top. I sketched what I wanted and used the revolve tool and then removed the parts I didn't want. Finally I created the bolts which I just extruded. I went into the assembly and was able to fasten all the parts together. I then had to answer each question, and for each I had to plug in different dimesions or a different material to find the new mass. Overall this assignment was much easier than the first, and I was able to take away many helpful points that will make the final test much easier.
 
 ---
+## OnShape Assemblies
 
+### Description
+For this assignment we followed an OnShape course to better understand assemblies. There were many videos and helpful hints and notes to help us complete three different assemblies. Each assembly helped us with a different component: creating an assembly, mating assembly components, and working with an assembly. 
+
+### Evidence
+[Creating an Assembly in Onshape](https://cvilleschools.onshape.com/documents/ce907e74325a03ff77a6a14b/w/f1f4e6ee4b548a4ca28f913c/e/c24687bfcd26b686718959cb?renderMode=0&uiState=636c0d85337bbf6ce44e0d8d)
+[Mating Assembly Components in Onshape](https://cvilleschools.onshape.com/documents/f72ae56fb359d9e6cb67a66c/w/5e6333de83c57f18147e720b/e/da131dc8e20679707f3afa30?renderMode=0&uiState=636c0e38d01ccc3515b062eb)
+[Working with an Assembly in Onshape](https://cvilleschools.onshape.com/documents/773db647488a59839f2ba09f/w/e19ba6cb610b619a57545dab/e/89f379b14779ea9395e29d55?renderMode=0&uiState=636c0e66b457c4119ef81393)
+
+### Image for Creating an Assembly
+![Screenshot (23)](https://user-images.githubusercontent.com/71406903/200936053-aeb7608d-ae60-43ad-96c2-b7e6ea596403.png)
+
+### Image for Mating Assembly Components
+![Screenshot (22)](https://user-images.githubusercontent.com/71406903/200936191-7a890968-3219-42ed-8070-5ddc84d9b20d.png)
+
+### Image for Working with an Assembly
+![Screenshot (21)](https://user-images.githubusercontent.com/71406903/200936413-7cb8b4bb-25ed-4d61-8474-1410c469fe02.png)
+
+### Reflection
+
+
+---
 
