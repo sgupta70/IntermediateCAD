@@ -140,7 +140,9 @@ For this assignment we followed an OnShape course to better understand assemblie
 
 ### Evidence
 [Creating an Assembly in Onshape](https://cvilleschools.onshape.com/documents/ce907e74325a03ff77a6a14b/w/f1f4e6ee4b548a4ca28f913c/e/c24687bfcd26b686718959cb?renderMode=0&uiState=636c0d85337bbf6ce44e0d8d)
+
 [Mating Assembly Components in Onshape](https://cvilleschools.onshape.com/documents/f72ae56fb359d9e6cb67a66c/w/5e6333de83c57f18147e720b/e/da131dc8e20679707f3afa30?renderMode=0&uiState=636c0e38d01ccc3515b062eb)
+
 [Working with an Assembly in Onshape](https://cvilleschools.onshape.com/documents/773db647488a59839f2ba09f/w/e19ba6cb610b619a57545dab/e/89f379b14779ea9395e29d55?renderMode=0&uiState=636c0e66b457c4119ef81393)
 
 ### Image for Creating an Assembly
