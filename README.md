@@ -6,6 +6,7 @@
 * [Swing Arm](#Swing-Arm)
 * [Multipart Design Practice](#Multi-part-Design-Practice)
 * [OnShape Assemblies](#OnShape-Assemblies)
+* [OnShape Certification Reflection](#Onshape Certification Reflection)
 
 ## Pull Copter 
 
@@ -156,6 +157,9 @@ For this assignment we followed an OnShape course to better understand assemblie
 
 ### Reflection
 This assignment was pretty easy for me because I did one very similar to this last year. I worked through each course to complete the assembled part. For the first assignment I just had to mate all the parts together, which is something I've done multiple times so it wasn't difficult for me. In the second assignment I had to make an explicit mate which was something new to me but I was able to understand it quickly. An explicit mate is a mate which is inbetween two parts, so following the directions I was able to make that mate and easily fasten it to the other part it needed to be fastened to. For the final assembly we used subassemblies where a couple of parts could be connected together and then in a final; assembly all those fastened parts would easily connect together. Overall this assignment went by pretty quickly for me and I was able to learn more about explicit mates which will be helpful in the future. 
+
+##Onshape Certification Reflection 
+This year I took the onshape certification test and I did not pass it. The multiple choice part wasn't bad for me but the other parts were kinda difficult. For every project I am the one doing the code so I barely get practice doing CAD. Even wih the couple practices we did in class I was still pretty slow making the parts I needed and figuring how to connect everything. The time limit was probably the biggest thing I struggled with, it takes me a while to make the parts and because there are so many questions I had to answer for each section I kept running out of time and at the end I was really rushing and ocouldn't finish in time. If I were to take this again I would continue to do more practice with a time limit so I would work better underpressue. I think all I really need to do is getback into CAD and do more of it. Overall it was defenitly a cool experience and even though I didn't pass this year I will continue to work to try and pass later. 
 
 ---
 
